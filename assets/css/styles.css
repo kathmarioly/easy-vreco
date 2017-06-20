@@ -28,8 +28,9 @@ button:hover,button:focus{
 	outline: 0;
 }
 
-.controls{
+.controls label{
 
 margin: 20px;
 
 }
+
